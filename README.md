@@ -12,4 +12,4 @@
 
 <img src="assets/images/instagram.jpeg"  alt="Screenshot" width="300">
 
-- [Follow on Insta](https://www.instagram.com/james__f_/)
+- [Follow me on Insta](https://www.instagram.com/james__f_/)
