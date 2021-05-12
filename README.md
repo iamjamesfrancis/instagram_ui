@@ -1,8 +1,8 @@
 # **Instagram UI Clone**
-####_Using Flutter_
+#### _Using Flutter_
 
 
-###Steps
+### Steps
 - ```git clone https://github.com/j-amesfrancis/instagram_ui.git```
 - ```cd instagram_ui```
 - ```flutter run```
