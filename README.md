@@ -1,5 +1,5 @@
 # **Instagram UI Clone**
-#### _Using Flutter_
+#### Using Flutter
 
 
 ### Steps
